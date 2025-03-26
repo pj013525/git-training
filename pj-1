@@ -1,4 +1,8 @@
 This is new file of pj
 i have pulled this file to my local terminal
-This is my third line pj-1 file
+
+<<<<<<< HEAD
 Thi is Devops engineer
+=======
+this is main branch
+>>>>>>> 9566891096f280603cec8afe445ca506941082a8
